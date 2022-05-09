@@ -1,8 +1,5 @@
 public class Main {
 
-    //considering arrays contains only positive elements
-    //not considering the order of leader elements
-
     public static void sort012(int[] a,int n){
         int i=0,j=0,k=n-1;
         while(j<=k){
